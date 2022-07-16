@@ -3,3 +3,7 @@ Nice Man
 some
 any
 p
+<<<<<<< HEAD
+=======
+ooo
+>>>>>>> testing
