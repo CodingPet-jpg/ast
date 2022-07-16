@@ -1,8 +1,6 @@
 Hello World
 Nice Man
-<<<<<<< HEAD
 some
-=======
 any
 p
->>>>>>> testing
+ooo
